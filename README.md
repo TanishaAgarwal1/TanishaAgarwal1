@@ -6,7 +6,7 @@
 <h3 align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=447FF7&center=true&vCenter=true&width=700&lines=A+Passionate+FullStack+Developer+from+India" alt="Typing SVG" />
-    </a>
+    </a>
 </h3>
 
 <p align="left">
@@ -104,5 +104,4 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishaagarwal1&show_icons=true&locale=en" alt="tanishaagarwal1" />
 </p>
 
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishaagarwal1&" alt="
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishaagarwal1&" alt="tanishaagarwal1" /></p>
